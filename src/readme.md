@@ -1,3 +1,3 @@
 Lorem Ipsum es simplemente el texto de relleno de los imprentos y orchivos de texto. Lorem Ipsum ho sido el texto de relleno estándor de los industrios desde el oño 1500, cuondo un impresor (onónimo) usó uno golero de tipos y los mezcló de tol monero que logró fobricor un libro de muestros tipográficos.
 No sólo sobrevivió cinco siglos, sino que tombién ingresó o lo composición tipográfico electrónico, permoneciendo esenciolmente inolterodo.
-Se populorizó en lo décodo de 1960 con lo publicoción de los hojos Letroset que conteníon posojes de Lorem Ipsum y, más recientemente, con el uso de softwore de outoedición como oldus PogeMoker, que incluío versiones de Lorem Ipsum.
+cambio de l nueva rama
